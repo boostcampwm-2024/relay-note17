@@ -1,3 +1,5 @@
+![BE9AEEC8-C1D5-4CF5-9A9A-F371B6754477](https://github.com/user-attachments/assets/0e640b08-898b-48fa-af47-c9726cbb5f86)
+
 ## 목차
 
 1. [해석 공유](#1주차-해석-공유)
