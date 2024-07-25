@@ -46,8 +46,8 @@
 
 | 미션 번호 | 1   | 2   | 3   | 4   | 5   | 6   |
 | --------- | --- | --- | --- | --- | --- | --- |
-| 수행자    |   S011김도연  |  [J077김현진](https://velog.io/@fru1t/javascript%EB%A5%BC-%EC%B2%98%EC%9D%8C%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%A7%8E%EC%9D%80-%EC%9E%A1%EC%A7%80%EC%8B%9D%EB%93%A4)   |  S034송영규   |  J166유준상   |  J285황성헌   |  J207임국희   |
-| 수행 여부 |     |    🌱  |     |     |     |     |
+| 수행자    |   S011김도연  |  [J077김현진](https://velog.io/@fru1t/javascript%EB%A5%BC-%EC%B2%98%EC%9D%8C%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%A7%8E%EC%9D%80-%EC%9E%A1%EC%A7%80%EC%8B%9D%EB%93%A4)   |  S034송영규   |  [J166유준상](https://gist.github.com/stupidJoon/150b2982223b3d96f5e47c96f99ba4d2#%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)   |  J285황성헌   |  J207임국희   |
+| 수행 여부 |     |    🌱  |     |  🌱  |     |     |
 
 미션을 수행했다면 **수행 여부** 칸에 🌱 이모지를 추가해주세요!  
 수행 기록은 수행자 이름에 링크로 걸어주세요 🔗
