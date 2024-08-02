@@ -139,8 +139,8 @@
 
 | 미션 번호 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 수행자 | 최경수 | 김민성 | [이찬](https://www.notion.so/Airbnb-62417e0e8dd94156a6bf84a4c885811a) | 임형준 | 장예진 | [J196이주현](https://alabaster-smash-73a.notion.site/c76d359982a54260b9ab92474a181e8f?pvs=4) |
-| 수행 여부 |  |  | 🌱 |  |  | 🌱🌱 |
+| 수행자 | [최경수](https://gyeongsu1997.notion.site/2-fc8e70f8774d4b019fe7eb6683f4b1a9?pvs=4) | 김민성 | [이찬](https://www.notion.so/Airbnb-62417e0e8dd94156a6bf84a4c885811a) | 임형준 | 장예진 | [J196이주현](https://alabaster-smash-73a.notion.site/c76d359982a54260b9ab92474a181e8f?pvs=4) |
+| 수행 여부 | 🌱 |  | 🌱 |  |  | 🌱🌱 |
 
 미션을 수행했다면 **수행 여부** 칸에 🌱 이모지를 추가해주세요!
 
